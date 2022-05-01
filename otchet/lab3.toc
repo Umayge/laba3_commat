@@ -1,0 +1,22 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Задание}{2}{section.1}%
+\contentsline {section}{\numberline {2}Явные формулы и значения $ f'(x_0), f''(x_0) $}{2}{section.2}%
+\contentsline {section}{\numberline {3}Первая конечно-разностная производная 1-го порядка точности}{2}{section.3}%
+\contentsline {section}{\numberline {4}Первая конечно разностная производная 2-го порядка точности}{4}{section.4}%
+\contentsline {section}{\numberline {5}Первая конечно разностна производная 4-го порядка точности}{5}{section.5}%
+\contentsline {section}{\numberline {6}Вторая конечно разностна производная 2-го порядка точности}{7}{section.6}%
+\contentsline {section}{\numberline {7}Вторая конечно разностна производная 4-го порядка точности}{8}{section.7}%
+\contentsline {section}{\numberline {8}Листинг функций и сценариев}{10}{section.8}%
+\contentsline {subsection}{\numberline {8.1}f.m}{10}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}df.m}{10}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}df1.m}{10}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}df2.m}{10}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}df4.m}{10}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}ddf.m}{10}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}ddf1.m}{10}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}ddf4.m}{11}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}ww1.m}{11}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}ww2.m}{11}{subsection.8.10}%
+\contentsline {subsection}{\numberline {8.11}ww4.m}{12}{subsection.8.11}%
+\contentsline {subsection}{\numberline {8.12}ww21.m}{12}{subsection.8.12}%
+\contentsline {subsection}{\numberline {8.13}ww24.m}{13}{subsection.8.13}%

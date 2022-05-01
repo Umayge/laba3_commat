@@ -1,0 +1,14 @@
+\ProvidesFile{t2astra.fd}[Astra Font]
+\DeclareFontFamily{T2A}{PT-Astra-Serif_Regular}{}
+
+\DeclareFontShape{T2A}{PT-Astra-Serif_Regular}{b}{n}{<->PT-Astra-Serif_Bold}{}
+%\DeclareFontShape{T2A}{astra}{b}{sl}{<-> timesbdo}{}
+\DeclareFontShape{T2A}{PT-Astra-Serif_Regular}{b}{it}{<-> PT-Astra-Serif_Italic}{}
+
+\DeclareFontShape{T2A}{PT-Astra-Serif_Regular}{m}{n}{<-> PT-Astra-Serif_Regular}{}
+%\DeclareFontShape{T2A}{astra}{m}{sl}{<-> timeso}{}
+\DeclareFontShape{T2A}{PT-Astra-Serif_Regular}{m}{it}{<-> PT-Astra-Serif_Italic}{}
+
+\DeclareFontShape{T2A}{PT-Astra-Serif_Regular}{bx}{n}{<->ssub * PT-Astra-Serif_Regular/b/n}{}
+%\DeclareFontShape{T2A}{astra}{bx}{sl}{<->ssub * times/b/sl}{}
+\DeclareFontShape{T2A}{PT-Astra-Serif_Regular}{bx}{it}{<->ssub * PT-Astra-Serif_Regular/b/it}{}
